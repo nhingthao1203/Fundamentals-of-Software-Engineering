@@ -24,11 +24,6 @@ Each lesson includes **theory, lab exercises**, and **mini-projects** to reinfor
 
 **None.** This course is beginner-friendly and welcomes all learners interested in building software skills for data-related roles.
 
----
-
-## 🧑‍🏫 Instructor
-
-**Tien Nguyen** – Machine Learning Engineer at [MoMo](https://momo.vn) with over 3 years of experience in data and machine learning.
 
 ---
 
